@@ -4,7 +4,7 @@
   "type": "library",
   "keywords": ["secrets", "one-time", "encryption", "password", "sharing", "zero-knowledge"],
   "homepage": "https://easytopaste.com/?utm_source=packagist&utm_medium=php&utm_campaign=launch-2026-11",
-  "license": "proprietary",
+  "license": "MIT",
   "support": {
     "email": "support@easytopaste.com",
     "source": "https://github.com/Nemet360/easytopaste-php"
